@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaanishSharma
 - 👀 I’m interested in Full Stack Development, System Design,IoT
-- 🌱 I’m currently learning Front End Frameworks - React
+- 🌱 I’m currently learning Front End development - HTML,CSS,Bootstrap,JavaScript,and React
 - 📫 How to reach me daanish1sharma@gmail.com
 
 <!---
