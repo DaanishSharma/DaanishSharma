@@ -33,11 +33,9 @@ Hello, Data Enthusiasts! 👋 I'm Daanish Sharma, a dedicated Data Software Engi
 
 ## Featured Projects
 ### YouTube News Automation
-- 🌐 Associated with Thapar University
 - 📰 Python script for web scraping news articles, summarizing them, and creating YouTube shorts using text-to-speech.
 
 ### Automatic Piano Tunes Generation
-- 🎹 Associated with Tel Aviv University
 - 🎵 Used Recurrent Neural Networks to create piano tunes based on a text file of piano songs.
 
 ## Skills
