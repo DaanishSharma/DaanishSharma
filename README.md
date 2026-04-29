@@ -3,8 +3,15 @@
 Hello, Data Enthusiasts! 👋 I'm Daanish Sharma, a dedicated Data Software Engineer at Tredence Inc., specializing in Big Data, Spark, and Data Engineering. Based in Bengaluru, Karnataka, India, I'm passionate about leveraging data to create impactful solutions.
 
 ## Professional Experience
-- **Software Engineer at Tredence Inc.** (Jun 2023 - Present)
-  - 🚀 Currently focusing on:
+- - **AI Solutions Engineer at Telus Digital.** (Nov 2024 - Present)
+  -  🚀 Focusing on
+  -  RAG
+  -  Langchain
+  -  Agentic AI
+  -  Pytorch
+  -  Kubernetes
+- **Software Engineer at Tredence Inc.** (Jun 2023 - Nov 2024)
+  - 🚀 focused on:
     - Azure Databricks
     - Docker
     - PySpark
