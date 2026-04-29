@@ -4,7 +4,7 @@ Hello, Data Enthusiasts! 👋 I'm Daanish Sharma, a dedicated Data Software Engi
 
 ## Professional Experience
 -  **AI Solutions Engineer at Telus Digital.** (Nov 2024 - Present)
-  -  🚀 Focusing on
+  -  🚀 Focusing on:
   -  RAG
   -  Langchain
   -  Agentic AI
